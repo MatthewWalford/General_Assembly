@@ -1,0 +1,312 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 20.02 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "syllables" 
+        xmin = 0 
+        xmax = 20.02 
+        points: size = 76 
+        points [1]:
+            number = 0.8592965189574848 
+            mark = "1" 
+        points [2]:
+            number = 0.9271316000188166 
+            mark = "2" 
+        points [3]:
+            number = 1.065240542510738 
+            mark = "3" 
+        points [4]:
+            number = 1.4055241994847063 
+            mark = "4" 
+        points [5]:
+            number = 1.4902711881377608 
+            mark = "5" 
+        points [6]:
+            number = 1.6164776464937047 
+            mark = "6" 
+        points [7]:
+            number = 2.384525027066403 
+            mark = "7" 
+        points [8]:
+            number = 2.4709077544779046 
+            mark = "8" 
+        points [9]:
+            number = 2.5903538905292347 
+            mark = "9" 
+        points [10]:
+            number = 2.722186457912616 
+            mark = "10" 
+        points [11]:
+            number = 2.902939439718788 
+            mark = "11" 
+        points [12]:
+            number = 2.989054577535434 
+            mark = "12" 
+        points [13]:
+            number = 3.188377208194461 
+            mark = "13" 
+        points [14]:
+            number = 3.483035221393957 
+            mark = "14" 
+        points [15]:
+            number = 3.5811873539746086 
+            mark = "15" 
+        points [16]:
+            number = 3.7756035464785542 
+            mark = "16" 
+        points [17]:
+            number = 3.9382709559286515 
+            mark = "17" 
+        points [18]:
+            number = 5.250425139248592 
+            mark = "18" 
+        points [19]:
+            number = 5.506586985815265 
+            mark = "19" 
+        points [20]:
+            number = 5.649033097203696 
+            mark = "20" 
+        points [21]:
+            number = 5.762150572456688 
+            mark = "21" 
+        points [22]:
+            number = 5.9573470830049216 
+            mark = "22" 
+        points [23]:
+            number = 6.322088194445002 
+            mark = "23" 
+        points [24]:
+            number = 6.427756720596767 
+            mark = "24" 
+        points [25]:
+            number = 6.721588107632384 
+            mark = "25" 
+        points [26]:
+            number = 6.923940875220243 
+            mark = "26" 
+        points [27]:
+            number = 7.064977143575262 
+            mark = "27" 
+        points [28]:
+            number = 7.27215001304174 
+            mark = "28" 
+        points [29]:
+            number = 7.348706777551212 
+            mark = "29" 
+        points [30]:
+            number = 7.4590249221404115 
+            mark = "30" 
+        points [31]:
+            number = 7.649674014940931 
+            mark = "31" 
+        points [32]:
+            number = 8.447065965577288 
+            mark = "32" 
+        points [33]:
+            number = 8.619008282575113 
+            mark = "33" 
+        points [34]:
+            number = 8.832973522633864 
+            mark = "34" 
+        points [35]:
+            number = 9.029782845619739 
+            mark = "35" 
+        points [36]:
+            number = 9.14323669220709 
+            mark = "36" 
+        points [37]:
+            number = 9.315944082897541 
+            mark = "37" 
+        points [38]:
+            number = 9.480467222169224 
+            mark = "38" 
+        points [39]:
+            number = 9.74863889862456 
+            mark = "39" 
+        points [40]:
+            number = 9.884587504280312 
+            mark = "40" 
+        points [41]:
+            number = 10.090417750956686 
+            mark = "41" 
+        points [42]:
+            number = 10.244166136203098 
+            mark = "42" 
+        points [43]:
+            number = 10.473139250076624 
+            mark = "43" 
+        points [44]:
+            number = 10.800548049089944 
+            mark = "44" 
+        points [45]:
+            number = 11.03095492562251 
+            mark = "45" 
+        points [46]:
+            number = 11.156251165087383 
+            mark = "46" 
+        points [47]:
+            number = 11.42169119499107 
+            mark = "47" 
+        points [48]:
+            number = 11.665907574190367 
+            mark = "48" 
+        points [49]:
+            number = 11.788096745813501 
+            mark = "49" 
+        points [50]:
+            number = 11.951198850220472 
+            mark = "50" 
+        points [51]:
+            number = 12.196252245833215 
+            mark = "51" 
+        points [52]:
+            number = 12.300807266076138 
+            mark = "52" 
+        points [53]:
+            number = 12.424590956955896 
+            mark = "53" 
+        points [54]:
+            number = 12.57773607119342 
+            mark = "54" 
+        points [55]:
+            number = 13.428988477288168 
+            mark = "55" 
+        points [56]:
+            number = 13.662848685263327 
+            mark = "56" 
+        points [57]:
+            number = 13.911244497876357 
+            mark = "57" 
+        points [58]:
+            number = 14.071386613099559 
+            mark = "58" 
+        points [59]:
+            number = 14.2877309999366 
+            mark = "59" 
+        points [60]:
+            number = 14.361292721731477 
+            mark = "60" 
+        points [61]:
+            number = 14.490962282947315 
+            mark = "61" 
+        points [62]:
+            number = 14.584160206363691 
+            mark = "62" 
+        points [63]:
+            number = 14.66491026450949 
+            mark = "63" 
+        points [64]:
+            number = 14.776760240239497 
+            mark = "64" 
+        points [65]:
+            number = 15.422768928774282 
+            mark = "65" 
+        points [66]:
+            number = 15.636581218529859 
+            mark = "66" 
+        points [67]:
+            number = 15.809238550886235 
+            mark = "67" 
+        points [68]:
+            number = 16.99524062329602 
+            mark = "68" 
+        points [69]:
+            number = 17.08784116973526 
+            mark = "69" 
+        points [70]:
+            number = 17.178793258110858 
+            mark = "70" 
+        points [71]:
+            number = 18.370364785861472 
+            mark = "71" 
+        points [72]:
+            number = 18.923304097919022 
+            mark = "72" 
+        points [73]:
+            number = 19.321059274235846 
+            mark = "73" 
+        points [74]:
+            number = 19.48762820269531 
+            mark = "74" 
+        points [75]:
+            number = 19.588584208719343 
+            mark = "75" 
+        points [76]:
+            number = 19.667121408263796 
+            mark = "76" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 20.02 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5299999999999998 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.5299999999999998 
+            xmax = 1.7779999999999998 
+            text = "sounding" 
+        intervals [3]:
+            xmin = 1.7779999999999998 
+            xmax = 2.274 
+            text = "silent" 
+        intervals [4]:
+            xmin = 2.274 
+            xmax = 4.002 
+            text = "sounding" 
+        intervals [5]:
+            xmin = 4.002 
+            xmax = 5.058 
+            text = "silent" 
+        intervals [6]:
+            xmin = 5.058 
+            xmax = 7.938 
+            text = "sounding" 
+        intervals [7]:
+            xmin = 7.938 
+            xmax = 8.354 
+            text = "silent" 
+        intervals [8]:
+            xmin = 8.354 
+            xmax = 12.61 
+            text = "sounding" 
+        intervals [9]:
+            xmin = 12.61 
+            xmax = 13.330000000000002 
+            text = "silent" 
+        intervals [10]:
+            xmin = 13.330000000000002 
+            xmax = 14.850000000000001 
+            text = "sounding" 
+        intervals [11]:
+            xmin = 14.850000000000001 
+            xmax = 15.378 
+            text = "silent" 
+        intervals [12]:
+            xmin = 15.378 
+            xmax = 15.873999999999999 
+            text = "sounding" 
+        intervals [13]:
+            xmin = 15.873999999999999 
+            xmax = 16.93 
+            text = "silent" 
+        intervals [14]:
+            xmin = 16.93 
+            xmax = 17.298 
+            text = "sounding" 
+        intervals [15]:
+            xmin = 17.298 
+            xmax = 18.226 
+            text = "silent" 
+        intervals [16]:
+            xmin = 18.226 
+            xmax = 20.02 
+            text = "sounding" 

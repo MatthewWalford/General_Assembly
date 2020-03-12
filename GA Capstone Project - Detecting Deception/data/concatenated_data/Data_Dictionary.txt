@@ -1,0 +1,252 @@
+id
+-----
+id of witness/defendant statement
+
+OtherGestures
+-----
+Other gestures shown not elsewhere specified
+
+Smile
+-----
+Absence (0) or Presence (1) of smiling
+
+Laugh
+-----
+Absence (0) or Presence (1) of laughing
+
+Scowl
+-----
+Absence (0) or Presence (1) of scowling
+
+otherEyebrowMovement
+-----
+Absence (0) or Presence (1) of eyebrow movement not elsewhere captured
+
+Frown
+-----
+Absence (0) or Presence (1) of frowing (as indicated by eyebrows)
+
+Raise
+-----
+Absence (0) or Presence (1) of raising of eyebrows
+
+OtherEyeMovements
+-----
+Absence (0) or Presence (1) of raising of eyebrows
+
+Close-R
+-----
+Absence (0) or Presence (1) of the closing of eyes repeatedly
+
+X-Open
+-----
+Absence (0) or Presence (1) of exaggerated opening of eyes
+
+Close-BE
+-----
+Absence (0) or Presence (1) of repeatedly closing eyes
+
+gazeInterlocutor
+-----
+Absence (0) or Presence (1) of making direct eyecontact to other party (e.g. lawyer)
+
+gazeDown
+-----
+Absence (0) or Presence (1) of gazing down towards floor
+
+gazeUp
+-----
+Absence (0) or Presence (1) of gazing upwards towards ceiling
+
+otherGaze
+-----
+Absence (0) or Presence (1) of gaze direction not otherwise specified
+
+gazeSide
+-----
+Absence (0) or Presence (1) of gazing towards either side
+
+openMouth
+-----
+Absence (0) or Presence (1) of mouth open
+
+closeMouth
+-----
+Absence (0) or Presence (1) of mouth closed
+
+lipsDown
+-----
+Absence (0) or Presence (1) of corners of lip down
+
+lipsUp
+-----
+Absence (0) or Presence (1) of corners of lip up
+
+lipsRetracted
+-----
+Absence (0) or Presence (1) of retracted lips
+
+lipsProtruded
+-----
+Absence (0) or Presence (1) of protruded lips
+
+SideTurn
+-----
+Absence (0) or Presence (1) of head turning to side
+
+downR
+-----
+Absence (0) or Presence (1) of head turning to side
+
+sideTilt
+-----
+Absence (0) or Presence (1) of head in side tilt
+
+backHead
+-----
+Absence (0) or Presence (1) of head moving backwards
+
+otherHeadM
+-----
+Absence (0) or Presence (1) of head movement not elsewhere specified
+
+sideTurnR
+-----
+Absence (0) or Presence (1) of repeated head turning to side
+
+sideTiltR
+-----
+Absence (0) or Presence (1) of repeated head tilting
+
+waggle
+-----
+Absence (0) or Presence (1) of a waggle which is a movement of the head back and forth, side to side, it is like a mixture of shake and  move backward or forward it is usually produced to show uncertainty, doubtfulness.
+
+forwardHead
+-----
+Absence (0) or Presence (1) of ra movement of the head forward, this can either be a movement of the head only or can be a movement of the whole trunk
+
+downRHead
+-----
+Absence (0) or Presence (1) of repeated down moving of head
+
+singleHand
+-----
+Absence (0) or Presence (1) of using either right or left hand to gesture
+
+bothHands
+-----
+Absence (0) or Presence (1) of using both hands to gesture
+
+otherHandM
+-----
+Absence (0) or Presence (1) of using one hand to gesture
+
+complexHandM
+-----
+Absence (0) or Presence (1) of a complex stroke trajectory (gesture)
+
+sidewaysHand
+-----
+Absence (0) or Presence (1) of the trajectory of a stroke which is sideways (gesture)
+
+downHands
+-----
+Absence (0) or Presence (1) of the trajectory of a stroke which is downwards (gesture)
+
+upHands
+-----
+Absence (0) or Presence (1) of the trajectory of a stroke which is upwards (gesture)
+
+class
+-----
+Identifies whethere statement was truthful or deceptive
+
+transcription
+-----
+Manual annotated of statement from audio collected using Mechanical Turk. word repetitions and fillers such as um, ah, and uh are included. Intentional silence indicated using ellipsis
+
+Pronunciation_posteriori
+-----
+UNSURE
+
+Gender
+-----
+Extracted gender using my-voice-analysis
+
+Mood_from_mva
+-----
+Extracted mood using my-voice-analysis
+
+Count of Syllables
+-----
+Extracted number of syllables identified using my-voice-analysis
+
+Count of filler and pauses
+-----
+Extracted number of filler and pauses identified using my-voice-analysis
+
+Rate of speech - syb per sec
+-----
+Number of syllables per second speaking identified using my-voice-analysis
+
+Speaking time secs w/o pauses
+-----
+Time in seconds speaking WITHOUT fillers and pauses identified using my-voice-analysis
+
+Duration time secs w pauses
+-----
+Time in seconds speaking INCLUDING fillers and pauses identified using my-voice-analysis
+
+Ratio speaking to duration
+-----
+Calculated ratio of speaking to time speaking (duration) in seconds identified using my-voice-analysis
+
+Fundamental frequency_f0 Hz
+-----
+The MEAN of the fundamental frequency of the complex speech tone – also known as the pitch or f0
+
+SD Fundamental frequency_f0 Hz
+-----
+The STD of the fundamental frequency
+
+Median Fundamental frequency_f0 Hz
+-----
+The Median of the fundamental frequency observed in the audio
+
+Minimum Fundamental frequency_f0 Hz
+-----
+The MINIMUM of the fundamental frequency observed in the audio
+
+Maximum Fundamental frequency_f0 Hz
+-----
+The MAXIMUM of the fundamental frequency observed in the audio
+
+25th Quantile Fundamental frequency_f0 Hz
+-----
+The 25th Quantile of the fundamental frequency observed in the audio
+
+75th Quantile Fundamental frequency_f0 Hz
+-----
+The 75th Quantile of the fundamental frequency observed in the audio
+
+Jitter - local
+-----
+This is the average absolute difference between consecutive periods, divided by the average period.
+
+Jitter - local, absolute
+-----
+Average absolute difference between consecutive periods, in seconds
+
+Jitter - rap
+-----
+The Relative Average Perturbation is the average absolute difference between a period and the average of it and its two neighbours, divided by the average period, in percentage.
+
+Jitter - ppq5
+-----
+This is the five-point Period Perturbation Quotient, the average absolute difference between a period and the average of it and its four closest neighbours, divided by the average period.
+
+Jitter - ddp
+-----
+This is the average absolute difference between consecutive differences between consecutive periods, divided by the average period.
+

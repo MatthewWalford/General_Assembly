@@ -1,0 +1,75 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.53 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "syllables" 
+        xmin = 0 
+        xmax = 4.53 
+        points: size = 13 
+        points [1]:
+            number = 0.5914884671967443 
+            mark = "1" 
+        points [2]:
+            number = 0.7654931184713412 
+            mark = "2" 
+        points [3]:
+            number = 0.8971052386979337 
+            mark = "3" 
+        points [4]:
+            number = 1.1607046832618206 
+            mark = "4" 
+        points [5]:
+            number = 2.7782799807279086 
+            mark = "5" 
+        points [6]:
+            number = 3.043195124035969 
+            mark = "6" 
+        points [7]:
+            number = 3.177474555493573 
+            mark = "7" 
+        points [8]:
+            number = 3.323384120077852 
+            mark = "8" 
+        points [9]:
+            number = 3.452735119091997 
+            mark = "9" 
+        points [10]:
+            number = 3.56958074822671 
+            mark = "10" 
+        points [11]:
+            number = 3.7113396672747117 
+            mark = "11" 
+        points [12]:
+            number = 3.8047038115142957 
+            mark = "12" 
+        points [13]:
+            number = 4.143531794254239 
+            mark = "13" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 4.53 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5129999999999999 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.5129999999999999 
+            xmax = 1.2489999999999999 
+            text = "sounding" 
+        intervals [3]:
+            xmin = 1.2489999999999999 
+            xmax = 2.657 
+            text = "silent" 
+        intervals [4]:
+            xmin = 2.657 
+            xmax = 4.53 
+            text = "sounding" 

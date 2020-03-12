@@ -1,0 +1,17 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="Jitter - local, absolute <= -0.35\ngini = 0.5\nsamples = 59\nvalue = [45, 47]\nclass = Deceptive", fillcolor="#f7fbfe"] ;
+1 [label="Jitter - rap <= -0.75\ngini = 0.39\nsamples = 29\nvalue = [12, 34]\nclass = Deceptive", fillcolor="#7fc0ee"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = 0.5\nsamples = 11\nvalue = [10, 9]\nclass = Truthful", fillcolor="#fcf2eb"] ;
+1 -> 2 ;
+3 [label="gini = 0.14\nsamples = 18\nvalue = [2, 25]\nclass = Deceptive", fillcolor="#49a5e7"] ;
+1 -> 3 ;
+4 [label="25th Quantile Fundamental frequency_f0 Hz <= -0.72\ngini = 0.41\nsamples = 30\nvalue = [33, 13]\nclass = Truthful", fillcolor="#efb387"] ;
+0 -> 4 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+5 [label="gini = 0.19\nsamples = 18\nvalue = [26, 3]\nclass = Truthful", fillcolor="#e89050"] ;
+4 -> 5 ;
+6 [label="gini = 0.48\nsamples = 12\nvalue = [7, 10]\nclass = Deceptive", fillcolor="#c4e2f7"] ;
+4 -> 6 ;
+}
